@@ -1,0 +1,9 @@
+.container {
+  height: 656px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-image: url(https://cdn.pixabay.com/photo/2020/11/07/01/28/abstract-5719221_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
